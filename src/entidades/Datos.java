@@ -5,6 +5,7 @@ public class Datos {
 
     private int n1;
     private int n2;
+    private int n22;
 
     public int getN1() {
         return n1;
@@ -20,6 +21,9 @@ public class Datos {
 
     public void setN2(int n2) {
         this.n2 = n2;
+    }
+    public void setN22(int n22) {
+        this.n22 = n22;
     }
 
 }
