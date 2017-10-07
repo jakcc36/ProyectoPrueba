@@ -5,7 +5,7 @@ public class Datos {
 
     private int n1;
     private int n2;
-    private int n222;
+    private int n2222;
 
     public int getN1() {
         return n1;
@@ -23,7 +23,7 @@ public class Datos {
         this.n2 = n2;
     }
     public void setN22(int n22) {
-        this.n222 = n222;
+        this.n2222 = n2222;
     }
 
 }
